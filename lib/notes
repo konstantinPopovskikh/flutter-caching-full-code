@@ -1,0 +1,4 @@
+flutter build web
+
+flutter pub add provider
+flutter pub add firebase_messaging

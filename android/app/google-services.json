@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "262115966253",
+    "firebase_url": "https://tim-s-guide-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "tim-s-guide",
+    "storage_bucket": "tim-s-guide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262115966253:android:7823b795c9d1a9a09a27a4",
+        "android_client_info": {
+          "package_name": "com.aviaspot.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262115966253-7t4vkndv1da4s9f00mlei0suv4vrt16b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAEGBsx9sHkSCbQCyT2Fn0fqacCV2vGDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262115966253-7t4vkndv1da4s9f00mlei0suv4vrt16b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262115966253:android:c646655fb647cbb99a27a4",
+        "android_client_info": {
+          "package_name": "com.example.fcm_notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262115966253-7t4vkndv1da4s9f00mlei0suv4vrt16b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAEGBsx9sHkSCbQCyT2Fn0fqacCV2vGDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262115966253-7t4vkndv1da4s9f00mlei0suv4vrt16b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262115966253:android:a7477d6799c89ef19a27a4",
+        "android_client_info": {
+          "package_name": "com.example.fetchingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262115966253-7t4vkndv1da4s9f00mlei0suv4vrt16b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAEGBsx9sHkSCbQCyT2Fn0fqacCV2vGDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262115966253-7t4vkndv1da4s9f00mlei0suv4vrt16b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262115966253:android:2a934fc00fc3be6d9a27a4",
+        "android_client_info": {
+          "package_name": "com.example.hello_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262115966253-6dju9adqv4jp45ui1nk3aq5dv4c517fk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hello_flutter",
+            "certificate_hash": "f01e0b1255f14b2338c0104de9b360fa7f26a83c"
+          }
+        },
+        {
+          "client_id": "262115966253-7t4vkndv1da4s9f00mlei0suv4vrt16b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAEGBsx9sHkSCbQCyT2Fn0fqacCV2vGDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262115966253-7t4vkndv1da4s9f00mlei0suv4vrt16b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
